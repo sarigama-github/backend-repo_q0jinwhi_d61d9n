@@ -1,15 +1,13 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [478] using StatReload
-INFO:     Started server process [480]
+INFO:     Started reloader process [524] using StatReload
+INFO:     Started server process [526]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:52022 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:53624 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:53628 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:53624 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:53628 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:53638 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:53638 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36600 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:36600 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35414 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:55758 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55764 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55758 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55764 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55774 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55774 - "GET /api/donations?limit=6 HTTP/1.1" 200 OK
